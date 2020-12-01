@@ -1,0 +1,9 @@
+.pull-right {
+    float: right;
+}
+.background-image-holder.parallax-background img {
+    width: 100%;
+}
+.feature-box .background-image-holder.overlay:before {
+    z-index: 2;
+}
